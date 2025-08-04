@@ -1,1 +1,1 @@
-# FuNight
+# Funight
